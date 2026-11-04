@@ -9,24 +9,14 @@ Originally developed as a C++ Object-Oriented Programming project, it focuses on
 
 ---
 ##  Preview
+(screenshots/login-page.png)
 
-Screenshots of the web application will be included here.
 
-### Login Interface
+(screenshots/dashboard.png)
 
-![Login Interface](screenshots/login-page.png)
 
-### Main Dashboard
+(screenshots/journal-entry.png)
 
-![Dashboard](screenshots/dashboard.png)
-
-### Journal Interface
-
-![Journal Interface](screenshots/journal-entry.png)
-
-### Mood Statistics
-
-![Mood Statistics](screenshots/mood-tracker.png)
 
 ---
 
