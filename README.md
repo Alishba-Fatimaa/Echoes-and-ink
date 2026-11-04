@@ -11,10 +11,10 @@ Originally developed as a C++ Object-Oriented Programming project, it focuses on
 ##  Preview
 ![Login Page](https://github.com/Alishba-Fatimaa/Echoes-and-ink/blob/main/Screenshot%202026-11-05%20010533.png?raw=true)
 
-(screenshots/dashboard.png)
+![screenshots/dashboard.png](https://github.com/Alishba-Fatimaa/Echoes-and-ink/blob/main/Screenshot%202026-11-05%20010721.png?raw=true)
 
 
-(screenshots/journal-entry.png)
+![(screenshots/journal-entry.png)](https://github.com/Alishba-Fatimaa/Echoes-and-ink/blob/main/Screenshot%202026-11-05%20010739.png?raw=true)
 
 
 ---
