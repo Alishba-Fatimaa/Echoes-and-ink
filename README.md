@@ -9,8 +9,7 @@ Originally developed as a C++ Object-Oriented Programming project, it focuses on
 
 ---
 ##  Preview
-(screenshots/login-page.png)
-
+![Login Page](https://github.com/Alishba-Fatimaa/Echoes-and-ink/blob/main/Screenshot%202026-11-05%20010533.png?raw=true)
 
 (screenshots/dashboard.png)
 
